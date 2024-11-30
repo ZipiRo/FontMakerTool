@@ -1,5 +1,3 @@
----
-
 **FONTMAKER TOOL by ZipiRo**  
 *Using the PiXELGraph library*  
 *For creating fonts for PiXELGraph library*  
@@ -9,7 +7,7 @@
 ### **INFO**  
 - **Canvas size:** 11x15 (per character)  
 - **Resolution:** 10 (0.1) 
-- **BottomLine:** Is a border from 1.1 -> 1.5  
+- **BottomLine:** Is a border from 1.1 -> 1.5 for some characters, just to know  
 
 ---
 
