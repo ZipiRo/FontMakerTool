@@ -1,5 +1,5 @@
 **FONTMAKER TOOL by ZipiRo**  
-*Using the PiXELGraph library*  
+*Using the [PiXELGraph](https://github.com/ZipiRo/PiXELGraph.git) library*  
 *For creating fonts for PiXELGraph library*  
 
 ---
